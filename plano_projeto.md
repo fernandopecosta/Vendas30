@@ -86,6 +86,7 @@ Menos prospecção fria e visitas genéricas; mais qualificação, parceria/ROI 
 - Checklist com persistência em `localStorage`
 - HTML continua single-file estático
 - Excel `controle_kpis_semanal.xlsx` — registro semanal + metas + dashboard
+- GitHub: https://github.com/fernandopecosta/Vendas30 — Pages via branch `main` (sem workflow customizado; `.nojekyll`)
 
 ## Próximo passo
 
